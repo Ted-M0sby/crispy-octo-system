@@ -113,4 +113,4 @@ pip install pandas numpy jieba matplotlib wordcloud
 ```
 
 ##
-联系邮箱naunnn@icloud。com
+联系邮箱naunnn@icloud.com
