@@ -112,6 +112,5 @@ python "中医药疗效文本关键词挖掘与词云可视化.py"
 pip install pandas numpy jieba matplotlib wordcloud
 ```
 
-## 许可证
-
-本项目仅供学习和研究使用。
+##
+联系邮箱naunnn@icloud。com
